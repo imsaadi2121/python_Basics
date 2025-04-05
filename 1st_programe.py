@@ -1,0 +1,1 @@
+print("ALLAH HU AKBUR !")
